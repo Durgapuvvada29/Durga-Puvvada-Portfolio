@@ -1,6 +1,6 @@
 # Venkata Durga Prasad Puvvada - Portfolio
 
-A personal portfolio website showcasing my professional journey as a Database Engineer with 6+ years of experience across India and the United States.
+A personal portfolio website showcasing my professional journey as a Data Engineer with 6+ years of experience across India and the United States.
 
 ## About
 
